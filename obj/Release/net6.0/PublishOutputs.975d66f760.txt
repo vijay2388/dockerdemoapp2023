@@ -1,0 +1,7 @@
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\dockersampleapp.exe
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\appsettings.Development.json
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\appsettings.json
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\dockersampleapp.dll
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\dockersampleapp.deps.json
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\dockersampleapp.runtimeconfig.json
+D:\Edureka\Az-204-18thMarch2023\Module5\dockersampleapp\appbuild\dockersampleapp.pdb
